@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    }
+
+header{
+    background-color: #dc143c;
+    width: 100vw;
+    left: 0px;
+    position: relative;
+    margin:0;
+    padding: 1%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+h1{
+    font-family: "Mountains of Christmas", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #fff;
+  font-size: 24pt;
+  text-align: left;
+/*text-shadow: 2px 2px 0 #0b5d1e, 2px -2px 0 #0b5d1e, -2px 2px 0 #0b5d1e, -2px -2px 0 #0b5d1e, 2px 0px 0 #0b5d1e, 0px 2px 0 #0b5d1e, -2px 0px 0 #0b5d1e, 0px -2px 0 #0b5d1e;*/
+/*border-color: #0b5d1e;*/
+-webkit-text-stroke: 1px #0b5d1e;
+display: flex;
+
+}
+
+
+#bandeau_menu ul{
+        display: flex;
+        list-style: none;
+        padding-right: 2em;
+        padding-top: 1em;
+}
+
+bandeau_menu ul li{
+        margin-right: 10px;
+        text-align: right;
+}
+
+
