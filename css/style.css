@@ -1,44 +1,76 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #E8ECD7;
     }
 
+
+/**
+couleure utilisée
+rouge -> #dc143c;
+blanc -> #fff;
+vert -> #0b5d1e;
+
+paramètres pour utiliser la polices :
+font-family: "Mountains of Christmas", serif;
+font-weight: 700;
+font-style: normal;
+**/
+
+
 header{
-    background-color: #dc143c;
-    width: 100vw;
-    left: 0px;
     position: relative;
-    margin:0;
-    padding: 1%;
-    display: inline-flex;
-    justify-content: space-between;
+    background-color: #A02334;
+    width: 50vw;
+    margin: auto;
+    border-radius: 5px;
+    z-index: 1;
 }
 
-h1{
+header h1{
     font-family: "Mountains of Christmas", serif;
-  font-weight: 700;
-  font-style: normal;
-  color: #fff;
-  font-size: 24pt;
-  text-align: left;
-/*text-shadow: 2px 2px 0 #0b5d1e, 2px -2px 0 #0b5d1e, -2px 2px 0 #0b5d1e, -2px -2px 0 #0b5d1e, 2px 0px 0 #0b5d1e, 0px 2px 0 #0b5d1e, -2px 0px 0 #0b5d1e, 0px -2px 0 #0b5d1e;*/
-/*border-color: #0b5d1e;*/
--webkit-text-stroke: 1px #0b5d1e;
-display: flex;
+font-weight: 700;
+font-style: normal;
+    text-align: center;
+    padding: 2rem;
+    color: #fff;
+}
 
+div{
+    position: relative;
+    background-color: #1F4529;
+    margin-top: -2rem;
+    z-index: 0;
+    padding: 2rem;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+div p{
+    display: inline-flex;
+    color: #fff;
+    padding: 1rem;
+    transition: transform 0.5s;
+    width: 12rem;
+    margin: auto;
+    background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 4px 32px 0 rgba(13, 43, 0, 0.37);
+backdrop-filter: blur( 2px );
+-webkit-backdrop-filter: blur( 2px );
+border-radius: 10px;
+margin-right: 1rem;
+margin-top: .5rem;
 }
 
 
-#bandeau_menu ul{
-        display: flex;
-        list-style: none;
-        padding-right: 2em;
-        padding-top: 1em;
+div p:hover{
+    transform: scale(1.05) translate(0px, 0.2rem);
 }
 
-bandeau_menu ul li{
-        margin-right: 10px;
-        text-align: right;
+a{
+    text-decoration: none;
+    color: #fff;
 }
-
-
+  
