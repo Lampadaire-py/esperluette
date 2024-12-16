@@ -1,8 +1,10 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #E8ECD7;
-    }
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1481%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cuse xlink:href='%23SvgjsG1483' transform='translate(0%2c 0)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1483' transform='translate(1054%2c 0)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1481'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cg id='SvgjsG1482'%3e%3cpath d='M-0.009 12.124L8 3.609l8.009 8.515z'%3e%3c/path%3e%3cpath d='M1.843 6.545L8 0l6.157 6.545z m4.761 0.502h2.792v8.955H6.604z'%3e%3c/path%3e%3c/g%3e%3cg id='SvgjsG1483'%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 0) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 105.39999999999999) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 210.79999999999998) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 316.2) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 421.59999999999997) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(0%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 105.39999999999999) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 210.79999999999998) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(105.39999999999999%2c 527) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 0) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 105.39999999999999) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 210.79999999999998) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 421.59999999999997) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(210.79999999999998%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 105.39999999999999) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 210.79999999999998) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 421.59999999999997) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(316.2%2c 527) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 105.39999999999999) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 210.79999999999998) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(421.59999999999997%2c 527) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 105.39999999999999) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 210.79999999999998) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(527%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 105.39999999999999) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 210.79999999999998) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(632.4%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 105.39999999999999) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 210.79999999999998) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(737.8%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 0) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 105.39999999999999) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 210.79999999999998) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 421.59999999999997) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(843.1999999999999%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 0) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 105.39999999999999) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 210.79999999999998) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 316.2) scale(1.7)' fill='rgba(232%2c 236%2c 215%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 421.59999999999997) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsG1482' transform='translate(948.5999999999999%2c 527) scale(1.7)' fill='rgba(71%2c 102%2c 59%2c 1)'%3e%3c/use%3e%3c/g%3e%3c/defs%3e%3c/svg%3e");
+    position: relative;
+    z-index: 0;
+}
 
 
 /**
@@ -18,25 +20,47 @@ font-style: normal;
 **/
 
 
-header{
-    position: relative;
-    background-color: #A02334;
-    width: 50vw;
-    margin: auto;
-    border-radius: 5px;
-    z-index: 1;
+header {
+    background-color: #1F4529;
+    display: inline-flex;
+    justify-items:center;
+    width: 100%;
 }
 
-header h1{
+header p a{
+    margin-right: 1rem;
+        /*font-family: "Rubik Doodle Shadow", system-ui;
+        font-weight: 400;
+        font-style: normal;*/
+            font-family: "Jacques Francois Shadow", serif;
+            font-weight: 400;
+            font-style: normal;
+          
+        color: #E8ECD7;
+        
+}
+
+header h1 {
     font-family: "Mountains of Christmas", serif;
-font-weight: 700;
-font-style: normal;
+    font-weight: 700;
+    font-style: normal;
     text-align: center;
     padding: 2rem;
     color: #fff;
+    position: relative;
+    z-index: 0;
+        background-color: #A02334;
+
+    width: 20vw;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    clip-path: polygon(59% 14%, 100% 10%, 91% 47%, 100% 100%, 54% 90%, 0 100%, 3% 50%, 2% 2%);
 }
 
-div{
+div {
     position: relative;
     background-color: #1F4529;
     margin-top: -2rem;
@@ -48,29 +72,56 @@ div{
     border-radius: 5px;
 }
 
-div p{
+div p {
     display: inline-flex;
     color: #fff;
     padding: 1rem;
     transition: transform 0.5s;
     width: 12rem;
     margin: auto;
-    background: rgba( 255, 255, 255, 0.25 );
-box-shadow: 0 4px 32px 0 rgba(13, 43, 0, 0.37);
-backdrop-filter: blur( 2px );
--webkit-backdrop-filter: blur( 2px );
-border-radius: 10px;
-margin-right: 1rem;
-margin-top: .5rem;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 4px 32px 0 rgba(13, 43, 0, 0.37);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 10px;
+    margin-right: 1rem;
+    margin-top: .5rem;
 }
 
 
-div p:hover{
+div p:hover {
     transform: scale(1.05) translate(0px, 0.2rem);
 }
 
-a{
+a {
     text-decoration: none;
     color: #fff;
 }
-  
+
+
+.logo img {
+    clip-path: circle(50% at 50% 50%);
+    width: 4%;
+}
+
+.logo {
+    margin-left: 1%;
+    position: sticky;
+    top: 1.2%;
+    z-index: 5;
+}
+
+.logoLabel {
+    visibility: hidden;
+    margin-left: -1rem;
+    z-index: 4;
+}
+
+.logo:hover .logoLabel {
+    visibility: visible;
+    background-color: #fff;
+    position: inherit;
+    padding: 1rem;
+    border-radius: 10px;
+    z-index: 4;
+}
