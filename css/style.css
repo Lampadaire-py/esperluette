@@ -7,6 +7,18 @@ bleu -> #132a48;
 **/
 
 @media screen and (min-device-width: 1295px) {
+    
+    #acceuil{
+        width: 1.5rem;
+        transform: translateY(0.39rem);
+        margin-right: 0.3rem;
+        transition: all 0.3s ease-in-out;
+        opacity: 1;
+    }
+    header ul li:hover #acceuil {
+        opacity: 0.6;
+    }
+
     body {
         margin: 0;
         padding: 0;
@@ -26,6 +38,11 @@ bleu -> #132a48;
         padding: 1rem;
         color: #FFFFFF;
         box-shadow: 6px 10px 91px -36px rgb(0, 0, 0, 0.75) inset;
+        font-family: "Roboto", serif;
+        font-weight: 400;
+        height: auto;
+        font-style: normal;
+
     }
 
     header {
@@ -146,33 +163,6 @@ bleu -> #132a48;
         color: #fff;
     }
 
-    .logo img {
-        clip-path: circle(50% at 50% 50%);
-        width: 4%;
-    }
-
-    .logo {
-        margin-left: 1%;
-        position: sticky;
-        top: 1.2%;
-        z-index: 5;
-    }
-
-    .logoLabel {
-        visibility: hidden;
-        margin-left: -1rem;
-        z-index: 4;
-    }
-
-    .logo:hover .logoLabel {
-        visibility: visible;
-        background-color: #fff;
-        position: inherit;
-        padding: 1rem;
-        border-radius: 10px;
-        z-index: 4;
-    }
-
     h2 {
         
         margin: auto;
@@ -214,8 +204,16 @@ bleu -> #132a48;
         padding: 6rem;
         margin-left: 6.2rem;
         margin-right: 6.2rem;
-        margin-top: 3rem;
+        margin-top: 2rem;
         box-shadow: -2px 7px 400px -5px rgb(0, 0, 0, 0.75);
+    }
+
+    .feuillePapier::first-letter{
+        font-size: 60px;
+    }
+    span.personnalités {
+        color: #000000;
+        font-weight: 800;
     }
 
     footer p a {
@@ -224,12 +222,23 @@ bleu -> #132a48;
 }
 
 @media screen and (max-device-width: 1294px) {
+    .feuillePapier::first-letter{
+        font-size: 40px;
+    }
     body {
         margin: 0;
         padding: 0;
         background-image: url(../image/patternOrignel.png);
         position: relative;
         height: 100%;
+    }
+
+    #acceuil{
+        width: 3rem;
+        transform: translateY(0.39rem);
+        margin-right: 0.3rem;
+        transition: all 0.3s ease-in-out;
+        opacity: 0.6;
     }
 
     footer {
@@ -414,6 +423,7 @@ bleu -> #132a48;
         margin-bottom: -2rem;
         z-index: 2;
         position: relative;
+        margin-top: 1rem;
 
     }
 
@@ -432,6 +442,11 @@ bleu -> #132a48;
         width: 80%;
         margin: auto;
         box-shadow: -2px 7px 400px -5px rgb(0, 0, 0, 0.75);
+    }
+
+    span.personnalités {
+        color: #000000;
+        font-weight: 800;
     }
 
     footer p a {
